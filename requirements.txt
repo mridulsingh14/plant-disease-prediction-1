@@ -1,5 +1,0 @@
-gradio
-google-generativeai
-python-dotenv
-gunicorn
-tensorflow
